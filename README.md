@@ -1,5 +1,6 @@
 # Premiere Pro 2024
-![Uploading banner.jpg…]()
+![banner](https://github.com/jhoshua23/jhoshua231/assets/148500384/1d66af0f-d910-428d-9868-7cab55b230cf)
+
 
 ## Info ℹ️
 
